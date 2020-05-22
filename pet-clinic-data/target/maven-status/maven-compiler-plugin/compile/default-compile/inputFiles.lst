@@ -1,5 +1,14 @@
 C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\model\Person.java
-C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\model\Owner.java
+C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\service\map\PetServiceMap.java
+C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\service\OwnerService.java
+C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\service\PetService.java
+C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\service\VetService.java
 C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\model\Vet.java
 C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\model\Pet.java
+C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\service\map\AbstractMapService.java
+C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\model\Owner.java
+C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\service\map\VetServiceMap.java
+C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\model\BaseEntity.java
+C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\service\CrudService.java
+C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\service\map\OwnerServiceMap.java
 C:\Users\korko\Documents\GitHub\sfg-pet-clinic\pet-clinic-data\src\main\java\edward\springframework\sfgpetclinic\model\PetType.java

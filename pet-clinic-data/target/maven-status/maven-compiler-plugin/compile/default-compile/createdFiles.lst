@@ -1,5 +1,14 @@
 edward\springframework\sfgpetclinic\model\Pet.class
+edward\springframework\sfgpetclinic\service\CrudService.class
+edward\springframework\sfgpetclinic\service\map\AbstractMapService.class
 edward\springframework\sfgpetclinic\model\Owner.class
 edward\springframework\sfgpetclinic\model\Person.class
+edward\springframework\sfgpetclinic\service\map\PetServiceMap.class
 edward\springframework\sfgpetclinic\model\PetType.class
 edward\springframework\sfgpetclinic\model\Vet.class
+edward\springframework\sfgpetclinic\service\map\VetServiceMap.class
+edward\springframework\sfgpetclinic\service\map\OwnerServiceMap.class
+edward\springframework\sfgpetclinic\service\OwnerService.class
+edward\springframework\sfgpetclinic\model\BaseEntity.class
+edward\springframework\sfgpetclinic\service\VetService.class
+edward\springframework\sfgpetclinic\service\PetService.class
