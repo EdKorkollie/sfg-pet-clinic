@@ -8,7 +8,7 @@ public class IndexController {
 
     @RequestMapping({"", "/", "index", "index.html"})
     public String index() {
-
+//added
         return "index";
     }
 }
