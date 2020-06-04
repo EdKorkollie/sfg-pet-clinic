@@ -2,10 +2,12 @@ package edward.springframework.sfgpetclinic.service.map;
 
 import edward.springframework.sfgpetclinic.model.Visit;
 import edward.springframework.sfgpetclinic.service.VisitService;
+import org.springframework.stereotype.Service;
 
 import javax.persistence.Lob;
 import java.util.Set;
 
+@Service
 public class VisitMapService extends AbstractMapService<Visit, Long> implements VisitService {
 
 
